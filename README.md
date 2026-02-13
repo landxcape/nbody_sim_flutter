@@ -12,8 +12,8 @@ High-iteration N-body vibes, production-ready wrapper APIs.
 
 ```yaml
 dependencies:
-  nbody_sim_flutter: ^0.1.1
-  nbody_sim_core: ^0.1.1
+  nbody_sim_flutter: ^0.1.2
+  nbody_sim_core: ^0.1.2
 ```
 
 ## What This Package Owns
