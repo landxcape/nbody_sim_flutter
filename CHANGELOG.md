@@ -1,3 +1,8 @@
+## 0.1.3
+- Update dependency to `nbody_sim_core: ^0.1.3`.
+- Add `physics` topic for enhanced pub.dev discoverability.
+- Add `.pubignore` to exclude development and IDE files from package distribution.
+
 ## 0.1.2
 - Update dependency to `nbody_sim_core: ^0.1.2`.
 - Align wrapper docs/examples with latest core package version.

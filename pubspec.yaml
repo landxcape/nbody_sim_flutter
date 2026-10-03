@@ -1,6 +1,6 @@
 name: nbody_sim_flutter
 description: Flutter UI wrapper widgets and theme primitives for nbody_sim_core.
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/landxcape/nbody_sim_flutter
 repository: https://github.com/landxcape/nbody_sim_flutter
 issue_tracker: https://github.com/landxcape/nbody_sim_flutter/issues
@@ -9,6 +9,7 @@ topics:
   - nbody
   - gravity
   - simulation
+  - physics
 
 environment:
   sdk: ^3.10.0
@@ -17,7 +18,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  nbody_sim_core: ^0.1.2
+  nbody_sim_core: ^0.1.3
 
 dev_dependencies:
   flutter_test:

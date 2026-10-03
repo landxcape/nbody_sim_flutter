@@ -1,0 +1,10 @@
+.git/
+.github/
+.idea/
+.vscode/
+build/
+.dart_tool/
+*.log
+.DS_Store
+doc/api/
+coverage/
