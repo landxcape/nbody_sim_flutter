@@ -1,3 +1,7 @@
+## 0.1.4
+- Update dependency to `nbody_sim_core: ^0.1.4`.
+- Documentation and overview refinements.
+
 ## 0.1.3
 - Update dependency to `nbody_sim_core: ^0.1.3`.
 - Add `physics` topic for enhanced pub.dev discoverability.

@@ -1,7 +1,6 @@
 # nbody_sim_flutter
 
-Reusable Flutter UI wrapper for `nbody_sim_core`.
-High-iteration N-body vibes, production-ready wrapper APIs.
+Flutter UI widgets, camera controls, and visual themes for rendering 2D simulations with `nbody_sim_core`.
 
 ## Features
 1. `SimulationCanvas` for interactive 2D N-body rendering.
@@ -12,8 +11,8 @@ High-iteration N-body vibes, production-ready wrapper APIs.
 
 ```yaml
 dependencies:
-  nbody_sim_flutter: ^0.1.2
-  nbody_sim_core: ^0.1.2
+  nbody_sim_flutter: ^0.1.4
+  nbody_sim_core: ^0.1.4
 ```
 
 ## What This Package Owns
